@@ -1,1 +1,5 @@
-# This a demo project of animation.
+Built with HTML%,CSS3 and Javascript
+ Commercial use
+ Modification
+ Distribution
+ Private use
